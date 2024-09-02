@@ -7,5 +7,4 @@ I am a MS student in the UConn EEB department interested in Parasite imaging and
 
 [Contact Info](contact-info.html) 
 
-theme: jekyll-theme-minima
 
